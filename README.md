@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# Vivek Kumar Sahu
+*DevOps Aspirants | Curious in terms of knowing the architecture of the tools and technologies*
 
-You can use the [editor on GitHub](https://github.com/viveksahu26/Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Education
+* High Level school, Sunbeam English School, July 2009 -- June 2015
+* B.Tech in Electronics and Communication, Jabalpur Engineering College, July 2019 -- May 2023
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# [Project 1: Wordpress-Mysql](https://github.com/viveksahu26/wordpress-mysql-deployment)
+* Wordpress is popular application for writting blog which uses MySql database to store data. I used docker image of wordpress and MySql and created a deployment. I tried to make a project on Kubernetes. It basically tried to deploy applications, WordPress as a frontend and MySql as a backend. It also includes many small topics like Deployment, ReplicaSets, Pods, PVC, PV, Services, etc.
 
-### Markdown
+# Experience
+** Intern at [Nirmata](https://nirmata.com/)
+* Worked as a Intern for 3 months. [Kyverno](https://kyverno.io/) is one of the project of Nirmata. It is open source project which is policy manager for Kubernetes Resources.
+I had to work on enhancement feature of Kyverno-CLI. Basically to support "test command of Kyverno for Mutate policy". As well as also to cover many of its sample policies.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# A Day of My Life
+* beautiful sleep
+* Day time - College
+* Free time- Learning Linux and Networking in Kubernetes
+* Night time - Contributing to OSS
 
-```markdown
-Syntax highlighted code block
+# My Life Philosophy
+*Apply whatever you learn is the best approach to live a life..
 
-# Header 1
-## Header 2
-### Header 3
+# Achievements
+*Starting contributing to open Source Projects as I was struggling to contribute to open source projects. Finally, I am able to contribute to open source projects.
 
-- Bulleted
-- List
+# Strengths
+*Try to relate things
 
-1. Numbered
-2. List
+# Skills
+* golang
+* Linux
+* Containers technology
+* Kubernetes
+* Networking in Linux, Containers, Kubernetes (still in progress )
+* Basics of DevOps tools like Jenkins, Terraform
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/viveksahu26/Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Languages
+* English
+* Hindi 
