@@ -10,7 +10,7 @@
 * Wordpress is popular application for writting blog which uses MySql database to store data. I used docker image of wordpress and MySql and created a deployment. I tried to make a project on Kubernetes. It basically tried to deploy applications, WordPress as a frontend and MySql as a backend. It also includes many small topics like Deployment, ReplicaSets, Pods, PVC, PV, Services, etc.
 
 # Experience
-** Intern at [Nirmata](https://nirmata.com/)
+* Intern at [Nirmata](https://nirmata.com/)
 * Worked as a Intern for 3 months. [Kyverno](https://kyverno.io/) is one of the project of Nirmata. It is open source project which is policy manager for Kubernetes Resources.
 I had to work on enhancement feature of Kyverno-CLI. Basically to support "test command of Kyverno for Mutate policy". As well as also to cover many of its sample policies.
 
@@ -21,13 +21,13 @@ I had to work on enhancement feature of Kyverno-CLI. Basically to support "test 
 * Night time - Contributing to OSS
 
 # My Life Philosophy
-*Apply whatever you learn is the best approach to live a life..
+* Apply whatever you learn is the best approach to live a life..
 
 # Achievements
-*Starting contributing to open Source Projects as I was struggling to contribute to open source projects. Finally, I am able to contribute to open source projects.
+* Starting contributing to open Source Projects as I was struggling to contribute to open source projects. Finally, I am able to contribute to open source projects.
 
 # Strengths
-*Try to relate things
+* Try to relate things
 
 # Skills
 * golang
