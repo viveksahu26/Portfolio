@@ -5,6 +5,7 @@
 * High Level school, Sunbeam English School, July 2009 -- June 2015
 * B.Tech in Electronics and Communication, Jabalpur Engineering College, July 2019 -- May 2023
 
+![alt text[](marvin-meyer-SYTO3xs06fU-unsplash(2).jpg)
 # [Project 1: Wordpress-Mysql](https://github.com/viveksahu26/wordpress-mysql-deployment)
 * Wordpress is popular application for writting blog which uses MySql database to store data. I used docker image of wordpress and MySql and created a deployment. I tried to make a project on Kubernetes. It basically tried to deploy applications, WordPress as a frontend and MySql as a backend. It also includes many small topics like Deployment, ReplicaSets, Pods, PVC, PV, Services, etc.
 
