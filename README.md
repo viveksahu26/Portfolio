@@ -6,10 +6,10 @@
 * B.Tech in Electronics and Communication, Jabalpur Engineering College, July 2019 -- May 2023
 
 ![alt text](marvin-meyer-SYTO3xs06fU-unsplash(2).jpg)
-# [Project 2: News-fetching-API](https://github.com/viveksahu26/news-app)
+# [Project 1: News-fetching-API](https://github.com/viveksahu26/news-app)
 * It’s a web app in golang which fetches news from the API. User need to search the news in the search bar section.
 
-# [Project 1: Wordpress-Mysql](https://github.com/viveksahu26/wordpress-mysql-deployment)
+# [Project 2: Wordpress-Mysql](https://github.com/viveksahu26/wordpress-mysql-deployment)
 * Wordpress is popular application for writting blog which uses MySql database to store data. I used docker image of wordpress and MySql and created a deployment. I tried to make a project on Kubernetes. It basically tried to deploy applications, WordPress as a frontend and MySql as a backend. It also includes many small topics like Deployment, ReplicaSets, Pods, PVC, PV, Services, etc.
 
 # Experience
