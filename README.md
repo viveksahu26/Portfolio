@@ -14,8 +14,9 @@ With these lines, Hello Everyone !! Myself  Vivek Kumar Sahu pursuing Bachelor o
 
 
 # Education
-* High Level school, Sunbeam English School, July 2009 -- June 2015
-* B.Tech in Electronics and Communication, Jabalpur Engineering College, July 2019 -- May 2023
+## High-Level school, Sunbeam English School, July 2009 -- June 2015
+## B.Tech in Electronics and Communication, Jabalpur Engineering College, July 2019 -- May 2023
+* During my Bachelor of Technology at Jabalpur Engineering College, spanning from 2019 to 2023, I embarked on a transformative journey within the field of Electronics and Telecommunication. While my initial focus was on electronics, my interest gradually shifted toward computer science, particularly the software aspect.
 
 ![alt text](marvin-meyer-SYTO3xs06fU-unsplash(2).jpg)
 # [Project 1: URL-Shortner](https://github.com/viveksahu26/url_shortner)
@@ -33,7 +34,10 @@ forms action such as -
 * Wordpress is popular application for writting blog which uses MySql database to store data. I used docker image of wordpress and MySql and created a deployment. I tried to make a project on Kubernetes. It basically tried to deploy applications, WordPress as a frontend and MySql as a backend. It also includes many small topics like Deployment, ReplicaSets, Pods, PVC, PV, Services, etc.
 
 # Experience
-* Intern at [Nirmata](https://nirmata.com/)
+## Intern @ OBMONDO(Jan, 2023 - X)
+The company is responsible for managing customers' Linux servers and Kubernetes clusters. In my role, I have primarily worked as a Junior SRE and Golang Developer to fix bugs, troubleshoot problems, add new features, etc. Thus, this role requires the implementation of various  technologies such as Puppet, Linux, Networking, Kubernetes, Containers, Golang, troubleshooting, Prometheus, Grafana, GitOps, Argo CD, security policies, and many more. One of the great aspects of working here is the opportunity to learn something new every day and work with actual infrastructure and industry use cases. It has always been my aspiration to engage with virtual server environments, taking on responsibilities such as server management and many more.
+
+## Contribution @ [Nirmata](https://nirmata.com/) (June, 2021 - Dec, 2022)
 *  Worked as a Intern for 3-4 months with Nirmata Cloud on one of the open source projects named as Kyverno. At present Kyverno is Incubate project of CNCF. Kyverno is a policy Engine for Kubernetes resources. It mainly has 3 types of rules: Validate, Mutate and Generate. 
 
 * Worked as an Interned under the mentor of the maintainer of the project. I had to work on an enhancement feature for the Kyverno cli  for Mutate Rule. It was to add the support for "test" command for Mutate rule in the Kyverno CLI. "test" is a command in the Kyverno CLI which test the policies for a given resource. All these policies, resources and extra files are provided through its configuration file named as kyvero-test.yaml. "test"command simply picks this file and starts working.
@@ -42,7 +46,9 @@ forms action such as -
 * Along with that also worked in solving small issues. Involved in meeting, slack discussion, github discussion ,etc. 
 * Also Added many sample policies as well as resources in the kyverno/policy repository. https://github.com/kyverno/policies/issues/88
 
+## LINUX WORLD (Jan, 2021- May, 2021)
 
+* This is where my tech journey started and curiosity grows into the world of technology. With the help of a mentor, I learned about many different technologies, starting from Linux and even diving into the fascinating world of Artificial Intelligence. It was like exploring different fields of technology to get a feel for each and every technology.  This exploration helps me to decide which tehnology to work in the future. Later, I decided to build my career in the field of cloud-native technologies, open source, and specifically focusing on Kubernetes. With that goal in mind, I took the next step and started contributing to open source projects. During exploring times I mostly used  local workspace to perform all practical. In my back of mind this thoughts always used to come "when will I get the opportunity to work with real server, infrastructure, and real industry projects where apps are running". That's all.
 
 # A Day of My Life
 * beautiful sleep
@@ -51,13 +57,13 @@ forms action such as -
 * Night time - Contributing to OSS
 
 # My Life Philosophy
-* Apply whatever you learn is the best approach to live a life..
+* Apply whatever you learn is the best approach to living a life..
 
 # Achievements
 * Qualified RedHat Certified System Administration(RHCSA).
 
 # Strengths
-* Try to relate tehnical concepts with life related for ease of remembering.
+* Try to relate technical concepts with life-related for ease of remembering.
 
 # Skills
 * golang
