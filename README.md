@@ -7,14 +7,14 @@
 
 # Experience
 ## Obmondo(EnableIT) - Junior Site Reliability Engineer                                                                     Jan 2023 - August 2023
-• Fixing bugs/issues triggered from Linux Servers and Kubernetes Cluster of different Clients. It requires Troubleshooting
+- Fixing bugs/issues triggered from Linux Servers and Kubernetes Cluster of different Clients. It requires Troubleshooting
 skills in Linux Server and Kubernetes Cluster.
-• Working on features such as writing helm charts for apps, writing bash scripts to update helm charts to the latest version,
+- Working on features such as writing helm charts for apps, writing bash scripts to update helm charts to the latest version,
 writing security policies, writing golang program to sync the parent repo's latest branch to the client repo, writing golang
 program to find orphan resources in the Kubernetes cluster report via notification, and much more.
-• This role requires the implementation of various technologies such as Puppet, Linux, Networking, Kubernetes,
+- This role requires the implementation of various technologies such as Puppet, Linux, Networking, Kubernetes,
 Containers, Golang, troubleshooting, AWS, Prometheus, Helm, Grafana, GitOps, ArgoCD, security policies, etc.
-• The best part was learning something new each and every day, which included technical part, time management, and soft
+- The best part was learning something new each and every day, which included technical part, time management, and soft
 skills.
 
 ## Kyverno   - Open Source Contributor                                                                                   October 2021 - September 2022
