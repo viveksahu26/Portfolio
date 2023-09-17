@@ -2,8 +2,8 @@
 *Open Source Contributor | DevOps Enthusiast * 
 
 # Education
-## High-Level school, Sunbeam English School, July 2009 -- June 2015
-## B.Tech in Electronics and Communication, Jabalpur Engineering College, July 2019 -- May 2023
+* **High-Level school**, Sunbeam English School, July 2009 -- June 2015
+* **B.Tech in Electronics and Communication**, Jabalpur Engineering College, July 2019 -- May 2023
 
 # Experience
 ## Obmondo(EnableIT) - Junior Site Reliability Engineer                                                                     Jan 2023 - August 2023
