@@ -18,68 +18,68 @@ Containers, Golang, troubleshooting, AWS, Prometheus, Helm, Grafana, GitOps, Arg
 skills.
 
 ## Kyverno   - Open Source Contributor                                                                                   October 2021 - September 2022
-• Contributed to Kyverno/kyverno project on fixing bugs, enhancing features, writing test cases for features, etc.
+- Contributed to Kyverno/kyverno project on fixing bugs, enhancing features, writing test cases for features, etc.
 § github
-• Contributed to Kyverno/policies repo on writing policies for Kyverno
+- Contributed to Kyverno/policies repo on writing policies for Kyverno
 § github
-• Collaborated with the community through the Slack channel and weekly meetings to communicate issue-related stuff.
-• Helped community members in solving doubts. Also helping new contributors as per the requirements.
+- Collaborated with the community through the Slack channel and weekly meetings to communicate issue-related stuff.
+- Helped community members in solving doubts. Also helping new contributors as per the requirements.
 
 ## NirmataCloud - Software Engineer Intern                                                                               June 2021 - September 2021
-• Kyverno is a policy Engine for Kubernetes resources. It mainly has 3 types of rules: Validate, Mutate, and Generate.
+- Kyverno is a policy Engine for Kubernetes resources. It mainly has 3 types of rules: Validate, Mutate, and Generate.
 Worked on an § enhancement feature for the Kyverno CLI for the Mutate Rule to add the support for the ”test”
 command. The”test” command is used for testing the policies against a resource before deploying the policy into production.
-• Worked on design for 1.5 months and discussed it with the team and then spent the remaining 1.5 months in coding with
+- Worked on design for 1.5 months and discussed it with the team and then spent the remaining 1.5 months in coding with
 golang programming language.
 PR link: § github, Design docs: link
-• Writing mutate policies and test cases for Kyverno.
+- Writing mutate policies and test cases for Kyverno.
 PR link: § github,
 
 ## Linux World - Learning and Exploring Internship                                                                       Jan 2021 - July 2021
-• During the internship, learn and explore with cutting-edge tools and technologies, including Machine Learning, Artificial
+- During the internship, learn and explore with cutting-edge tools and technologies, including Machine Learning, Artificial
 Intelligence, containerizing machine learning models, and deploying them to Kubernetes clusters.
-• Contenerizing Machine Learning models, Project: § github
-• Created a live streaming app using socket programming and computer vision
+- Contenerizing Machine Learning models, Project: § github
+- Created a live streaming app using socket programming and computer vision
 Project: § github
-• This Machine Learning model detects identical faces and performs various actions, such as sending emails and WhatsApp
+- This Machine Learning model detects identical faces and performs various actions, such as sending emails and WhatsApp
 messages, as well as launching a new EC2 instance with 10Gi storage in AWS via Terraform script Devops Project:
 § github
 
 # Projects
 ## Orphaned Resources | Golang, Obmondo
-• Written a Go API, which retrieves the orphaned resource from the Kubernetes cluster. And expose those orphan
+- Written a Go API, which retrieves the orphaned resource from the Kubernetes cluster. And expose those orphan
 resources via endpoint through metric. And Prometheus scrapes those metrics.
-• Implemented for Obmondo Company.
+- Implemented for Obmondo Company.
 
 ## Sync repository | Golang, Obmondo
-• Written a Go API to synchronize the latest branch of the private repo with the followers repo.
-• Implemented for Obmondo Company.
+- Written a Go API to synchronize the latest branch of the private repo with the follower's repo.
+- Implemented for Obmondo Company.
 
 ## Virtual Terminal | Golang,
 December 2022
-• It takes input from the user and returns corresponding outputs. It is a service that takes commands from the user as the
+- It takes input from the user and returns corresponding outputs. It is a service that takes commands from the user as the
 input and returns the output of the corresponding command.
 Project: § github
 
 ## URL Shortner | Golang, October 2022
-• It is a service that takes a long URL from the user and returns a Short URL and vice-versa. For a repeating long URL
+- It is a service that takes a long URL from the user and returns a Short URL and vice-versa. For a repeating long URL
 provides the same short URL Project: § github
 
 # Technical Skills
-• **Languages**: Golang, Python, bash, SQL
-• **Developer Tools**: VS Code, Github
-• **Technologies/Frameworks**: Linux, Containers, Kubernetes, Computer Networking, AWS, Cryptography, CloudFormation
-• **DevOps Tools**: Helm, ArgoCD, Monitoring tools, GitOps, etc
+- **Languages**: Golang, Python, bash, SQL
+- **Developer Tools**: VS Code, Github
+- **Technologies/Frameworks**: Linux, Containers, Kubernetes, Computer Networking, AWS, Cryptography, CloudFormation
+- **DevOps Tools**: Helm, ArgoCD, Monitoring tools, GitOps, etc
 
 # Certification
 - [**Red Hat Certified System Administrator (RHCSA)**](https://www.credly.com/badges/1d3ebf72-0508-4d91-9020-c3f2ff2b40dd/public_url)
 
 
 # Contact
-Github: https://github.com/viveksahu26
-Linkedin: https://www.linkedin.com/in/viveksahu26/
-Twitter: https://twitter.com/viveksahu_26
-Blogs: https://cloudnativeculture.blogspot.com/
+- **Github**: https://github.com/viveksahu26
+- **Linkedin**: https://www.linkedin.com/in/viveksahu26/
+- **Twitter**: https://twitter.com/viveksahu_26
+- **Blogs**: https://cloudnativeculture.blogspot.com/
 
 # My Life Philosophy
 * Apply whatever you learn is the best approach to living a life..
